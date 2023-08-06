@@ -59,7 +59,7 @@ export const portfolioData = [
   },
   {
     id: "8",
-    image: image6,
+    image: image7,
     title: "Perfect Touch Unisex Saloon",
     link: "https://perfect-touch-app.vercel.app/",
     demo: "https://perfect-touch-app.vercel.app/",

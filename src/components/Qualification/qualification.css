@@ -9,7 +9,6 @@
 .qualification__tabs {
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   margin-bottom: var(--mb-2);
   justify-content: space-evenly;
 }

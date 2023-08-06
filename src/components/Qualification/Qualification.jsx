@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useContext } from "react";
+import { themeContext } from "../../App";
 import "./qualification.css";
 const Qualification = () => {
+  const { theme } = useContext(themeContext);
+
+  // Apply styles based on the theme value
+  const qualificationStyles = {
+    background: theme === "dark" ? "black" : "white",
+    color: theme === "dark" ? "white" : "black",
+    // Add other styles as needed
+  };
+
   return (
-    <section className="qualificaton section">
+    <section className="qualificaton section" style={qualificationStyles}>
       <h2 className="section__title">Qualification</h2>
       <span className="section__subtitle">My Personal Journey</span>
       <div className="qualification__container container">
