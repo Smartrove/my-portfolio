@@ -5,6 +5,7 @@ import image4 from "../../assets/quiz.png";
 import image5 from "../../assets/ecommerce.png";
 import image6 from "../../assets/global.png";
 import shopSwift from "../../assets/shopswift.png";
+import image7 from "../../assets/p_logo.png";
 
 export const portfolioData = [
   {
@@ -55,5 +56,12 @@ export const portfolioData = [
     title: "Global Electromech Clone",
     link: "https://smartrove.github.io/globaleletromech/",
     demo: "https://smartrove.github.io/globaleletromech/",
+  },
+  {
+    id: "8",
+    image: image6,
+    title: "Perfect Touch Unisex Saloon",
+    link: "https://perfect-touch-app.vercel.app/",
+    demo: "https://perfect-touch-app.vercel.app/",
   },
 ];
