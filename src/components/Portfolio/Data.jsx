@@ -19,7 +19,7 @@ export const portfolioData = [
   },
   {
     id: "2",
-    image: image8,
+    image: image9,
     title: "Mivant Academy",
     link: "https://mivant.co/",
     demo: "https://mivant.co/",
