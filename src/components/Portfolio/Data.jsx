@@ -13,7 +13,7 @@ export const portfolioData = [
   {
     id: "1",
     image: image8,
-    title: "Shop Swift",
+    title: "Remote Chefs",
     link: "https://test.remotechefs.com/",
     demo: "https://test.remotechefs.com/",
   },
