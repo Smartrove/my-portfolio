@@ -18,17 +18,18 @@ const Skills = () => {
               <article className="skills__details">
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
-                  <h4 className="skills__name">HTML</h4>
+                  <h4 className="skills__name">React</h4>
                   <small className="text-light">Experience</small>
                 </div>
               </article>
               <article className="skills__details">
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
-                  <h4 className="skills__name">CSS</h4>
+                  <h4 className="skills__name">NextJs</h4>
                   <small className="text-light">Experience</small>
                 </div>
               </article>
+
               <article className="skills__details">
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
@@ -57,17 +58,18 @@ const Skills = () => {
                   <small className="text-light">Experience</small>
                 </div>
               </article>
+
               <article className="skills__details">
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
-                  <h4 className="skills__name">React</h4>
+                  <h4 className="skills__name">HTML</h4>
                   <small className="text-light">Experience</small>
                 </div>
               </article>
               <article className="skills__details">
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
-                  <h4 className="skills__name">NextJs</h4>
+                  <h4 className="skills__name">CSS</h4>
                   <small className="text-light">Experience</small>
                 </div>
               </article>
@@ -91,7 +93,21 @@ const Skills = () => {
                 <i className="bx bxs-badge-check skills__details-icon"></i>
                 <div>
                   <h4 className="skills__name">Express</h4>
-                  <small className="text-light">Intermidiate</small>
+                  <small className="text-light">Intermediate</small>
+                </div>
+              </article>
+              <article className="skills__details">
+                <i className="bx bxs-badge-check skills__details-icon"></i>
+                <div>
+                  <h4 className="skills__name">NestJs</h4>
+                  <small className="text-light">Intermediate</small>
+                </div>
+              </article>
+              <article className="skills__details">
+                <i className="bx bxs-badge-check skills__details-icon"></i>
+                <div>
+                  <h4 className="skills__name">Python</h4>
+                  <small className="text-light">Intermediate</small>
                 </div>
               </article>
               <article className="skills__details">
@@ -99,6 +115,13 @@ const Skills = () => {
                 <div>
                   <h4 className="skills__name">MongoDB</h4>
                   <small className="text-light">Experience</small>
+                </div>
+              </article>
+              <article className="skills__details">
+                <i className="bx bxs-badge-check skills__details-icon"></i>
+                <div>
+                  <h4 className="skills__name">Prisma</h4>
+                  <small className="text-light">Intermediate</small>
                 </div>
               </article>
               <article className="skills__details">

@@ -25,7 +25,7 @@ const About = () => {
               problems, coming up with solutions, and gauging customer
               happiness. My main areas of expertise are in creating web apps
               with a consumer-centric focus using JavaScript, Typescript,
-              ReactJs, NextJs, NodeJs, and Express. For more than two years,
+              ReactJs, NextJs, NodeJs, and Express. For more than three years,
               I've produced products for users of applications while adhering to
               the highest standards for online and mobile app development, user
               experience, best practices, and speed. Web applications were

@@ -12,7 +12,7 @@ const Qualification = () => {
   };
 
   return (
-    <section className="qualificaton section" style={qualificationStyles}>
+    <section className="qualificaton_sections" style={qualificationStyles}>
       <h2 className="section__title">Qualification</h2>
       <span className="section__subtitle">My Personal Journey</span>
       <div className="qualification__container container">
@@ -62,7 +62,7 @@ const Qualification = () => {
                 </div>
               </div>
 
-              <div className="qualification__data">
+              {/* <div className="qualification__data">
                 <h3 className="qualification__title"> Web Development</h3>
                 <span className="qualification__subtitle">
                   Boldlinks Technology Solution{" "}
@@ -74,7 +74,7 @@ const Qualification = () => {
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>2021 - 2023
                 </div>
-              </div>
+              </div> */}
 
               {/* Qualification Data 4 */}
             </div>
@@ -91,6 +91,15 @@ const Qualification = () => {
           </div>
           <div className="qualification__data">
             {/* ============ Qualification Data 2 ============== */}
+            <div className="qualification__data">
+              <h3 className="qualification__title">Frontend Engineer</h3>
+              <span className="qualification__subtitle">
+                McAnderson Institute of Technology
+              </span>
+              <div className="qualification__calender">
+                <i className="uil uil-calendar-alt"></i>2024
+              </div>
+            </div>
             <div className="qualification__data">
               <h3 className="qualification__title">Fullstack Web Developer</h3>
               <span className="qualification__subtitle">Automation Lounge</span>

@@ -2,6 +2,8 @@ import React from "react";
 import "./footer.css";
 
 const Footer = () => {
+  const date = new Date();
+  const year = date.getFullYear();
   return (
     <footer className="footer">
       <div className="footer__container container">
@@ -54,7 +56,7 @@ const Footer = () => {
         </div>
 
         <span className="footer__copy">
-          &#169; Smartrove. All rights reserved 2023
+          &#169; Smartrove. All rights reserved {year}
         </span>
       </div>
     </footer>
