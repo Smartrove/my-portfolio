@@ -10,8 +10,16 @@ import image8 from "../../assets/remotechef.png";
 import image9 from "../../assets/mivant.png";
 import image10 from "../../assets/hisbas.png";
 import image11 from "../../assets/ayoade.png";
+import image12 from "../../assets/techyteams.png";
 
 export const portfolioData = [
+  {
+    id: "2",
+    image: image12,
+    title: "Techy teams",
+    link: "https://www.techyteams.com/",
+    demo: "https://www.techyteams.com/",
+  },
   {
     id: "2",
     image: image10,
