@@ -7,46 +7,39 @@ import image6 from "../../assets/global.png";
 import shopSwift from "../../assets/shopswift.png";
 import image7 from "../../assets/p_logo.png";
 import image8 from "../../assets/remotechef.png";
-import image9 from "../../assets/mivant.png";
-import image10 from "../../assets/hisbas.png";
+import cb from "../../assets/cb.png";
+import rt from "../../assets/rt.png";
 import image11 from "../../assets/ayoade.png";
-import image12 from "../../assets/techyteams.png";
+import sk from "../../assets/sk.png";
 
 export const portfolioData = [
   {
     id: "2",
-    image: image12,
-    title: "Techy teams",
-    link: "https://www.techyteams.com/",
-    demo: "https://www.techyteams.com/",
+    image: sk,
+    title: "See Kool",
+    link: "https://www.seekoool.com/",
+    demo: "https://www.seekoool.com/",
   },
   {
     id: "2",
-    image: image10,
-    title: "Hizbas Variety Store",
-    link: "https://hizbasvarietystore.com.ng/",
-    demo: "https://hizbasvarietystore.com.ng/",
+    image: rt,
+    title: "Regional Trade Institute",
+    link: "https://www.regionaltradeinstitute.com/",
+    demo: "https://www.regionaltradeinstitute.com/",
+  },
+  {
+    id: "2",
+    image: cb,
+    title: "Clever Biz",
+    link: "https://www.cleverbiz.com.ng/",
+    demo: "https://www.cleverbiz.com.ng/",
   },
   {
     id: "3",
     image: image11,
     title: "Ayoade Estate Consult",
-    link: "https://ayoadetoyibconsulting.com.ng/",
-    demo: "https://ayoadetoyibconsulting.com.ng/",
-  },
-  {
-    id: "1",
-    image: image8,
-    title: "Remote Chefs",
-    link: "https://test.remotechefs.com/",
-    demo: "https://test.remotechefs.com/",
-  },
-  {
-    id: "4",
-    image: image9,
-    title: "Mivant Academy",
-    link: "https://mivant.co/",
-    demo: "https://mivant.co/",
+    link: "https://ayoadeconsulting.com.ng/",
+    demo: "https://ayoadeconsulting.com.ng/",
   },
   {
     id: "5",

@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import me from "../../assets/smartrove.png";
-import CV from "../../assets/webDeveloper.pdf";
+import resume from "../../assets/lwo.pdf";
 import Info from "./Info";
 import { AnimationOnScroll } from "react-animation-on-scroll";
 import "animate.css/animate.min.css";
@@ -40,7 +40,7 @@ const About = () => {
           </AnimationOnScroll>
           <AnimationOnScroll animateIn="animate__fadeInUp">
             {/* hhhh */}
-            <a href={CV} className="button cv" download>
+            <a href={resume} className="button cv" download>
               <span className="button-text">Download CV </span>
               <span>
                 <i className="button-icon uil uil-arrow-down"></i>
