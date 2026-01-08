@@ -6,7 +6,6 @@ import image5 from "../../assets/ecommerce.png";
 import image6 from "../../assets/global.png";
 import shopSwift from "../../assets/shopswift.png";
 import image7 from "../../assets/p_logo.png";
-import image8 from "../../assets/remotechef.png";
 import cb from "../../assets/cb.png";
 import rt from "../../assets/rt.png";
 import image11 from "../../assets/ayoade.png";
