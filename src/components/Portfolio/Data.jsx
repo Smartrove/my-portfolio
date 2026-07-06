@@ -34,6 +34,20 @@ export const portfolioData = [
     demo: "https://www.cleverbiz.com.ng/",
   },
   {
+    id: "2",
+    image: a1swift,
+    title: "A1Swiftlink",
+    link: "https://www.a1swiftlink.com/",
+    demo: "https://www.a1swiftlink.com/",
+  },
+  {
+    id: "2",
+    image: '/img.png',
+    title: "Tech Analytics Limited",
+    link: "https://www.a1swiftlink.com/",
+    demo: "https://www.a1swiftlink.com/",
+  },
+  {
     id: "3",
     image: image11,
     title: "Ayoade Estate Consult",
