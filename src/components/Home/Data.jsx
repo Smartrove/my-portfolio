@@ -6,11 +6,12 @@ const Data = () => {
       <h1 className="home__title">Lateef Wasiu Olalekan</h1>
       <h3 className="home__subtitle">Fullstack Developer</h3>
       <p className="home__description">
-        I am a passionate developer with expertise in web development. I love
-        building interactive and user-friendly websites using cutting-edge
-        technologies like React, NextJs, HTML, CSS,JavaScript and Typescript.
-        With a strong problem-solving ability, I aim to create elegant solutions
-        that deliver a seamless user experience.
+        Fullstack developer with 6+ years of experience crafting scalable web applications.
+        I specialize in JavaScript, TypeScript, React, NextJs, and NodeJs, building
+        solutions from e-commerce platforms to real estate consultancy systems. My portfolio
+        includes See Kool, Clever Biz, Regional Trade Institute, and A1SwiftLink - each
+        delivering seamless user experiences through clean code and modern architecture.
+        Let's build something exceptional together.
       </p>
       <div>
         <a href="#contact" className="button">
@@ -25,9 +26,3 @@ const Data = () => {
 };
 
 export default Data;
-{
-  /*  */
-}
-{
-  /* </AnimationOnScroll> */
-}
