@@ -35,7 +35,7 @@ export const portfolioData = [
   },
   {
     id: "2",
-    image: a1swift,
+    image: '/image.png',
     title: "A1Swiftlink",
     link: "https://www.a1swiftlink.com/",
     demo: "https://www.a1swiftlink.com/",
