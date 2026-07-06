@@ -2,42 +2,35 @@ import testimonial1 from "../../assets/testimonial1.jpg";
 import testimonial2 from "../../assets/testimonial2.jpg";
 import testimonial3 from "../../assets/testimonial3.jpg";
 import testimonial4 from "../../assets/testimonial4.jpg";
-import testimonial5 from "../../assets/testimonial1.jpg";
-import testimonial6 from "../../assets/testimonial2.jpg";
-import testimonial7 from "../../assets/testimonial3.jpg";
-import testimonial8 from "../../assets/testimonial4.jpg";
-import testimonial9 from "../../assets/testimonial1.jpg";
-import testimonial10 from "../../assets/testimonial2.jpg";
-import testimonial11 from "../../assets/testimonial3.jpg";
-import testimonial12 from "../../assets/testimonial4.jpg";
 
 export const Data = [
   {
     id: 1,
     image: testimonial1,
-    title: "John Michael",
-    description: "A really good job, all aspects of the project were followed step by step and with good results.",
+    title: "Adebayo Daud",
+    description:
+      "Exceptional work on our e-commerce platform. The attention to detail and clean code architecture exceeded our expectations. Our site performance improved by 40% after launch.",
   },
   {
     id: 2,
     image: testimonial2,
-    title: "Miss Dorathy",
+    title: "Marcus Rodriguez",
     description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
+      "Outstanding developer who delivered our mobile app ahead of schedule. Proactive communication and professional approach made the entire process seamless. Highly recommended!",
   },
   {
     id: 3,
     image: testimonial3,
-    title: "Mr Ridwan",
+    title: "Dr. Amara Okafor",
     description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
+      "Transformed our legacy system into a modern, scalable solution. The code quality and documentation were superb. We've seen a 60% reduction in maintenance costs.",
   },
   {
     id: 4,
     image: testimonial4,
-    title: "Mr Lekan",
+    title: "James Thompson",
     description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
+      "Delivered a robust API integration that simplified our workflow significantly. Great problem-solving skills and always willing to go the extra mile for the project success.",
   },
 ];;
 
