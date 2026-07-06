@@ -16,7 +16,7 @@ export const Data = [
     id: 1,
     image: testimonial1,
     title: "John Michael",
-    description: "A really good job, all aspects of th project were followed step by step and with good results.",
+    description: "A really good job, all aspects of the project were followed step by step and with good results.",
   },
   {
     id: 2,
@@ -35,62 +35,6 @@ export const Data = [
   {
     id: 4,
     image: testimonial4,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 5,
-    image: testimonial5,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 6,
-    image: testimonial6,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 7,
-    image: testimonial7,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 8,
-    image: testimonial8,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 9,
-    image: testimonial9,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 10,
-    image: testimonial10,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 11,
-    image: testimonial11,
-    title: "Mr Lekan",
-    description:
-      "A really good job, all aspects of th project were followed step by step and with good results.",
-  },
-  {
-    id: 12,
-    image: testimonial12,
     title: "Mr Lekan",
     description:
       "A really good job, all aspects of th project were followed step by step and with good results.",
