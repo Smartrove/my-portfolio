@@ -40,7 +40,7 @@ const About = () => {
           </AnimationOnScroll>
           <AnimationOnScroll animateIn="animate__fadeInUp">
             {/* hhhh */}
-            <a href={resume} className="button cv" download>
+            <a href={'/smartrove.pdf'} className="button cv" download>
               <span className="button-text">Download CV </span>
               <span>
                 <i className="button-icon uil uil-arrow-down"></i>
