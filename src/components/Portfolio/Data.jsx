@@ -49,10 +49,10 @@ export const portfolioData = [
   },
   {
     id: "3",
-    image: image11,
-    title: "Ayoade Estate Consult",
-    link: "https://ayoadeconsulting.com.ng/",
-    demo: "https://ayoadeconsulting.com.ng/",
+    image: '/vix.png',
+    title: "Vixlinq",
+    link: "https://vixlinq.com/",
+    demo: "https://vixlinq.com/",
   },
   {
     id: "5",
